@@ -1,4 +1,4 @@
 ##My Resume
-img ="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png"
+img = "(https://user-images.githubusercontent.com/38604742/202189203-9162951f-50ca-4cc3-9714-a3a35230610c.png)"
  
 
