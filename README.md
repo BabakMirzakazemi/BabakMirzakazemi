@@ -5,6 +5,9 @@
    </header>
    <main>
     <h1 title="بابک میرزاکاظمی">Babak Mirzakazemi Resume  </h1>
+    <h2>mobile : +98 919 384 4043</h2>
+    <h2><a mailto:"bamirzakazemi@gmail.com">Email : bamirzakazemi@gmail.com</a></h2>
+    <h2><a href="https://www.linkedin.com/in/babak-mirzakazemi-7a6230121/">LinkedIn</a></h2>
   </main>
  </body>
 </html>
