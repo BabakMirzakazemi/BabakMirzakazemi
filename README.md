@@ -13,13 +13,38 @@
     </hr>
   <h2>Education</h2>
    <ul>
-    <l1>Bachelor Of Software</li>
-    <l1>Web Pack Course Of Microsoft / MCSD</li>
-    <l1>Optimize Web Page for Search Engines / SEO</li>
-    <l1>Clean Artichtechture / SOLID</li>
-    <li>Methodology of the software design and production process until delivery to the customer / SCRUM</li>
-    <li>Version Control / Git</li>
-    <li>Neywork+</li>
+    <li> Bachelor Of Software </li>
+    <li>Web Pack Course Of Microsoft / MCSD </li>
+    <li>Optimize Web Page for Search Engines / SEO </li>
+    <li>Clean Artichtechture / SOLID </li>
+    <li>Methodology of the software design and production process until delivery to the customer / SCRUM </li>
+    <li>Version Control / Git </li>
+    <li>Network+ </li>
+   </ul>
+  </hr>
+   <h2>Skills Backend</h2>
+   <ul>
+    <li>C# </li>
+    <li>Docker</li>
+    <li>gRPC</li>
+    <li>CQRS/li>
+    <li>Micro Service</li>
+    <li>AspNet Core</li>
+    <li>EF Core</li>
+    <li>Web Api</li>
+    <li>JWT</li>
+    <li>Identity</li>
+    <li>ASP MVC</li>
+    <li>ASP Web Forms</li>
+    <li>Entity Framwork</li>
+    <li>ADO Classic</li>
+    <li>Linq</li>
+    <li>SQL Server</li>
+    <li>No Sql</li>
+    <li>Rest API</li>
+    <li>SEO</li>
+    <li>Project Managment</li>
+    <li>Project Mentoring</li>
    </ul>
   </main>
  </body>
